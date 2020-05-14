@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background: lightslategrey;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: whitesmoke;
   text-align: left;
@@ -8,15 +8,15 @@ body {
 }
 h1 {
   color: whitesmoke;
-  font-family: "Courier New", Courier, monospace;
-  color: greenyellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightsalmon;
   text-align: center;
 }
 
 h2 {
   font-size: 20px;
-  font-family: "Courier New", Courier, monospace;
-  color: greenyellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: lightsalmon;
   text-align: center;
 }
 
@@ -38,5 +38,5 @@ footer {
   bottom: 0;
   width: 100%;
   text-align: center;
-  color: grey;
+  color: lightgray;
 }
